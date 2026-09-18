@@ -43,6 +43,11 @@
 
 [С подсказкой](https://static.elementaree.ru/004501/thumb_m/4ff3658d205244b60bb0f17493b53f08.jpg "Итальянская")
 
+<https://static.elementaree.ru/004501/thumb_m/4ff3658d205244b60bb0f17493b53f08.jpg>
+
+[Хорошо сидим][1]
+[1]: https://static.elementaree.ru/004501/thumb_m/4ff3658d205244b60bb0f17493b53f08.jpg
+
 
 
 
