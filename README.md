@@ -55,6 +55,8 @@
 
 ![Отдых на море](https://img.pac.ru/countries/213165/big/03DA4BFDC0A880140C72DACED8612F4A.jpg "Приезжайте к нам!")
 
+[![Карофильм](https://img.pac.ru/countries/213165/big/03DA4BFDC0A880140C72DACED8612F4A.jpg)](https://karofilm.ru/?_sw=1789740388282)
+
 
 
 
