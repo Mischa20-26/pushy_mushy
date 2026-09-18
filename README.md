@@ -47,7 +47,9 @@
 
 [Хорошо сидим][1] 
 
-[1]: https://static.elementaree.ru  
+[1]: https://static.elementaree.ru 
+
+супер
 
 Картинки 
 --------
