@@ -36,5 +36,14 @@
 - [ ] 2
 - [ ] 3
 
+Ссылки 
+------
+
+[Я люблю пиццу](https://static.elementaree.ru/004501/thumb_m/4ff3658d205244b60bb0f17493b53f08.jpg)
+
+[С подсказкой](https://static.elementaree.ru/004501/thumb_m/4ff3658d205244b60bb0f17493b53f08.jpg "Итальянская")
+
+
+
 
 
