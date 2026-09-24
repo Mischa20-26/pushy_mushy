@@ -50,7 +50,7 @@
    "Жиры" : 25
    "Углеводы" : 69
 ```
-![Яблочный пирог](mega_yablochii_pirog_na_kefire-833590.jpg)
+![Яблочный пирог](mega_yablochnii_pirog_na_kefire-833590.jpg)
 
 
  
