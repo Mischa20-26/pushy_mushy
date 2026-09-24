@@ -52,5 +52,7 @@
 ```
 ![Яблочный пирог](mega_yablochnii_pirog_na_kefire-833590.jpg)
 
+[Видео приготовления пирога](https://yandex.ru/video/preview/15089604232709978105)
+
 
  
